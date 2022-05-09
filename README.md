@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WESTIEWEB
+- 👋 Hi, I’m @ChibuikeIlo
 - 👀 I’m interested in both frontend and backend development.
 - 🌱 I’m currently learning Python , JavaScript and React.
 - 💞️ I’m looking to collaborate on building of desktop apps.
