@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChibuikeIlo
 - 👀 I’m interested in both frontend and backend development.
 - 🌱 I’m currently learning Python , JavaScript and React.
-- 💞️ I’m looking to collaborate on building of desktop apps.
+- 💞️ I’m looking to collaborate on building of web applications.
 - 📫 How to reach me 'WHATSAPP +2348067791314'.
 
 <!---
